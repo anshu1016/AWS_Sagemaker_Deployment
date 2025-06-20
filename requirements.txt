@@ -1,0 +1,7 @@
+ipykernel
+sagemaker
+scikit-learn
+pandas
+numpy
+boto3
+python-dotenv
